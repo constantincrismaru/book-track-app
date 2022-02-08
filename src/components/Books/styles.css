@@ -1,0 +1,32 @@
+.books {
+    text-align: center;
+}
+
+.book-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-list-item {
+    border-bottom: 1px solid black;
+    margin: 1em;
+}
+
+.filter {
+    margin-bottom: 2em;
+}
+
+.book-grid-item {
+    width: 30%;
+    margin: 2em;
+}
+
+.footer {
+    margin: 2em;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.book-item {
+    cursor: pointer;
+}
